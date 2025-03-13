@@ -1639,7 +1639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputManager: {fileID: 1623929139}
   maxSpeed: 50
-  acceleration: 150
+  acceleration: 200
   jumpForce: 10
   dashForce: 40
   airControl: 0.15
@@ -4582,8 +4582,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278519045
+  m_fontColor: {r: 0.01886791, g: 0.01860091, b: 0.01860091, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4606,7 +4606,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
